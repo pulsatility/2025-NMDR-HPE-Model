@@ -21,5 +21,5 @@ Environmental endocrine-disrupting chemicals (EDCs) often exhibit nonmonotonic d
 - EDC_cmd.m: Main MATLAB file simulating the model and producing figures
 - EDC_ode.m: ODE file of the HPE model
 - Default_param.mat: Default model parameter values
-- 6_parameter_MC_simulation_results/: Contains file for 6-parameter MC simulation results
-- Population_MC_simulation_results/: Contains file for population MC simulation results
+- 6_parameter_MC_simulation_results/: Contains the file for 6-parameter MC simulation results
+- Population_MC_simulation_results/: Contains the files for population MC simulation results
